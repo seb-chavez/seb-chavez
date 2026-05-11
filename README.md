@@ -11,7 +11,7 @@ Senior Product Manager building payments infrastructure at scale. ACH, RTP, FedN
 
 | Company | Role | Highlights |
 |---------|------|------------|
-| **Chime** | Senior PM, ACH Team Lead | Built Chime's ACH platform 0→1 as part of ChimeCore — XXXM+ entries/year, 9.5M members. Filed 3 patents. |
+| **Chime** | Senior PM, ACH Team Lead | Built Chime's ACH platform 0→1 as part of ChimeCore — XXXM+ entries/year, 9.5M members migrated from Galileo to ChimeCore. Filed 3 patents. |
 | **Orum** | PM, Transfers Team Lead | Led JPMorgan Chase RTP API integration. Onboarded Socure for KYC across XM+ end-users. |
 | **Flannel** *(acq. by Plaid)* | Business Development Lead | First hire. Secured partnerships with The Clearing House and supported the launch of instant account verification MVP. |
 | **Wells Fargo** | PM, Faster Payments | Supported RTP Send launch and flagship client. Automated enhanced due diligence workflows. |
