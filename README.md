@@ -23,13 +23,6 @@ Senior Product Manager building payments infrastructure at scale. ACH, RTP, FedN
 |--------------|------|-------|
 | **[PayCLT](https://www.payclt.com)** | Contributor | Charlotte's payments and fintech community — 500+ leaders across the Carolinas. Education, networking, and advocacy for the local payments ecosystem since 2009. |
 
-## Education
-
-| School | Degree | Notes |
-|--------|--------|-------|
-| **William & Mary** — Mason School of Business | MBA, Finance & Entrepreneurship | GPA 3.7 · Prospanica Scholarship · Lowman Full Merit Scholarship |
-| **Virginia Military Institute** | BA, Economics | Graduate with Distinction |
-
 ## What I Work With
 
 `ACH` `RTP` `FedNow` `Payment Orchestration` `Ledger Systems` `KYC/AML` `Claude Code` `GitHub` `Postman` `Figma` `Lucidchart`
