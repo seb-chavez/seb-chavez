@@ -2,7 +2,7 @@
 
 Senior Product Manager building payments infrastructure at scale. ACH, RTP, FedNow — I've shipped the rails that move money.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianachavez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seb-chavez/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sebastianachavez17@gmail.com)
 
 ---
@@ -16,12 +16,13 @@ Senior Product Manager building payments infrastructure at scale. ACH, RTP, FedN
 | **Flannel** *(acq. by Plaid)* | Business Development Lead | First hire. Secured partnerships with The Clearing House and supported the launch of instant account verification MVP. |
 | **Wells Fargo** | PM, Faster Payments | Supported RTP Send launch and flagship client. Automated enhanced due diligence workflows. |
 | **Sentara Health** | Associate | Automated case-management ops, cutting processing time from minutes to 15 seconds. |
+| **Various Startups** | Advisor | Advising on growth and product strategy — activation, retention, acquisition loops, and go-to-market execution. |
 
 ## Community
 
 | Organization | Role | About |
 |--------------|------|-------|
-| **[PayCLT](https://www.payclt.com)** | Contributor | Charlotte's payments and fintech community — 500+ leaders across the Carolinas. Education, networking, and advocacy for the local payments ecosystem since 2009. |
+| **[PayCLT](https://www.payclt.com)** | Contributor | Built the org's web platform from scratch (Next.js, React, Sanity CMS). Architected an AI-powered newsletter pipeline using Claude API that cut production from hours to under 60 seconds. Built a custom poll system, events management, and integrated PostHog, Resend, and Mailchimp. |
 
 ## What I Work With
 
