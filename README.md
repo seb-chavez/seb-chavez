@@ -18,7 +18,7 @@ Senior Product Manager building payments infrastructure at scale. ACH, RTP, FedN
 | **Sentara Health** | Associate | Automated case-management ops, cutting processing time from minutes to 15 seconds. |
 | **Various Startups** | Advisor | Advising on growth and product strategy — activation, retention, acquisition loops, and go-to-market execution. |
 
-## Open Source & Community
+## Volunteer Work
 
 | Organization | Role | About |
 |--------------|------|-------|
