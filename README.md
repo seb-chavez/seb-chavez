@@ -13,6 +13,7 @@ Senior Product Manager building payments infrastructure at scale. ACH, RTP, FedN
 |---------|------|------------|
 | **Chime** | Senior PM, ACH Team Lead | Built Chime's ACH platform 0→1 as part of ChimeCore — XXXM+ entries/year, 9.5M members migrated from Galileo to ChimeCore. Filed 3 patents. |
 | **Various Startups** | Advisor | Advising on growth and product strategy — activation, retention, acquisition loops, and go-to-market execution. |
+| **[PayCLT](https://www.payclt.com)** | Volunteer | Built the org's web platform from scratch (Next.js, React, Sanity CMS). Architected an AI-powered newsletter pipeline using Claude API that cut production from hours to under 60 seconds. Built a custom poll system, events management, and integrated PostHog, Resend, and Mailchimp. |
 
 ## Previous
 
@@ -22,12 +23,6 @@ Senior Product Manager building payments infrastructure at scale. ACH, RTP, FedN
 | **Flannel** *(acq. by Plaid)* | Business Development Lead | First hire. Secured partnerships with The Clearing House and supported the launch of instant account verification MVP. |
 | **Wells Fargo** | PM, Faster Payments | Supported RTP Send launch and flagship client. Automated enhanced due diligence workflows. |
 | **Sentara Health** | Associate | Automated case-management ops, cutting processing time from minutes to 15 seconds. |
-
-## Volunteer Work
-
-| Organization | Role | About |
-|--------------|------|-------|
-| **[PayCLT](https://www.payclt.com)** | Contributor | Built the org's web platform from scratch (Next.js, React, Sanity CMS). Architected an AI-powered newsletter pipeline using Claude API that cut production from hours to under 60 seconds. Built a custom poll system, events management, and integrated PostHog, Resend, and Mailchimp. |
 
 ## What I Work With
 
