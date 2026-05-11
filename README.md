@@ -17,6 +17,12 @@ Senior Product Manager building payments infrastructure at scale. ACH, RTP, FedN
 | **Wells Fargo** | PM, Faster Payments | Reduced RTP network costs via internal ledger routing. Automated compliance workflows for Treasury Management. |
 | **Sentara Health** | Associate | Automated case-management ops, cutting processing time from minutes to 15 seconds. |
 
+## Community
+
+| Organization | Role | About |
+|--------------|------|-------|
+| **[PayCLT](https://www.payclt.com)** | Contributor | Charlotte's payments and fintech community — 500+ leaders across the Carolinas. Education, networking, and advocacy for the local payments ecosystem since 2009. |
+
 ## Education
 
 | School | Degree | Notes |
