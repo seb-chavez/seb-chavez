@@ -41,7 +41,7 @@ Built and shipped the org's web platform end to end (Next.js, React, TypeScript,
 
 | Years | Company | Role |
 |---|---|---|
-| 2026– | **Valon** | Senior PM, Escrow |
+| 2026– | **Building Something New** | Builder |
 | 2023–2026 | **Chime** | Senior PM, ACH Team Lead |
 | 2021–2023 | **Orum** *(acq. Stripe)* | PM, Transfers Team Lead |
 | 2020–2021 | **Flannel** *(acq. Plaid)* | Business Development Lead |
